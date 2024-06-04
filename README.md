@@ -1,0 +1,1 @@
+this is the Assignment of day 8 in ITI client side Technologies in training in ITI ,in it i have made some tasks using HTML and ESC6 ,that the first make some operation on array using every ,some and map , the second make classes on it mathmatics operations.
